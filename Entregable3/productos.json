@@ -1,0 +1,110 @@
+[
+	{
+		"id": 1,
+		"title": "Cellphone",
+		"description": "Black Cellphone",
+		"price": 200,
+		"thumbnail": "Sin imagen",
+		"code": "abc121",
+		"stock": 25
+	},
+	{
+		"id": 2,
+		"title": "EarPhone",
+		"description": "White EarPhone",
+		"price": 150,
+		"thumbnail": "Sin imagen",
+		"code": "abc122",
+		"stock": 10
+	},
+	{
+		"id": 3,
+		"title": "Pro Tablet",
+		"description": "Amazing Pro Tablet",
+		"price": 11000,
+		"thumbnail": "Sin imagen",
+		"code": "abc123",
+		"stock": 25
+	},
+	{
+		"id": 4,
+		"title": "Pnecil",
+		"description": "Smart Pencil",
+		"price": 15,
+		"thumbnail": "Sin imagen",
+		"code": "abc124",
+		"stock": 25
+	},
+	{
+		"id": 5,
+		"title": "Eraser",
+		"description": "Smart Eraser",
+		"price": 800,
+		"thumbnail": "Sin imagen",
+		"code": "abc125",
+		"stock": 25
+	},
+	{
+		"id": 6,
+		"title": "Case",
+		"description": "Black Case",
+		"price": 97,
+		"thumbnail": "Sin imagen",
+		"code": "abc126",
+		"stock": 25
+	},
+	{
+		"id": 7,
+		"title": "PC",
+		"description": "Expensive PC",
+		"price": 45,
+		"thumbnail": "Sin imagen",
+		"code": "abc127",
+		"stock": 25
+	},
+	{
+		"id": 8,
+		"title": "Alexa",
+		"description": "Alexa",
+		"price": 46,
+		"thumbnail": "Sin imagen",
+		"code": "abc128",
+		"stock": 25
+	},
+	{
+		"id": 9,
+		"title": "Laptop",
+		"description": "Black Laptop",
+		"price": 26,
+		"thumbnail": "Sin imagen",
+		"code": "abc129",
+		"stock": 25
+	},
+	{
+		"id": 10,
+		"title": "Pendrive",
+		"description": "White Pendrive",
+		"price": 1515,
+		"thumbnail": "Sin imagen",
+		"code": "abc110",
+		"stock": 25
+	},
+	{
+		"id": 11,
+		"title": "TV",
+		"description": "LG Tv",
+		"price": 9797,
+		"thumbnail": "Sin imagen",
+		"code": "abc111",
+		"stock": 25
+	},
+	{
+		"id": 12,
+		"title": "Printer",
+		"description": "Blue Printer",
+		"price": 178,
+		"thumbnail": "Sin imagen",
+		"code": "abc112",
+		"stock": 25
+	}
+]
