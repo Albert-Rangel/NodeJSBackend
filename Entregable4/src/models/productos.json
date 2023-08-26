@@ -1,0 +1,68 @@
+[
+	{
+		"id": 2,
+		"title": "telefono",
+		"description": "White foncaset",
+		"price": 148,
+		"thumbnail": "Sin imagen",
+		"code": "abc157",
+		"stock": 10,
+		"status": true,
+		"category": "technology"
+	},
+	{
+		"id": 1,
+		"title": "prueba",
+		"description": "White foncaset",
+		"price": 148,
+		"thumbnail": "Sin imagen",
+		"code": "abc156",
+		"stock": 500,
+		"status": true,
+		"category": "technology"
+	},
+	{
+		"id": 2,
+		"title": "moto",
+		"description": "moto foncaset",
+		"price": 148,
+		"thumbnail": "Sin imagen",
+		"code": "abc158",
+		"stock": 10,
+		"status": true,
+		"category": "technology"
+	},
+	{
+		"id": 3,
+		"title": "cortina",
+		"description": "cortina foncaset",
+		"price": 148,
+		"thumbnail": "Sin imagen",
+		"code": "abc159",
+		"stock": 10,
+		"status": true,
+		"category": "technology"
+	},
+	{
+		"id": 4,
+		"title": "mesa",
+		"description": "cortina foncaset",
+		"price": 148,
+		"thumbnail": "Sin imagen",
+		"code": "abc162",
+		"stock": 10,
+		"status": true,
+		"category": "technology"
+	},
+	{
+		"id": 5,
+		"title": "telefono",
+		"description": "cortina foncaset",
+		"price": 148,
+		"thumbnail": "Sin imagen",
+		"code": "abc163",
+		"stock": 10,
+		"status": true,
+		"category": "technology"
+	}
+]
